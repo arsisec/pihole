@@ -193,4 +193,7 @@
 127.0.0.1 www.uizhcjow.com
 127.0.0.1 bfeofwzszuis.com
 127.0.0.1 yycocbzc.com
+127.0.0.1 www.cbzjukldosooj.com
+127.0.0.1 www.fgbmbyqmdgr.com
 127.0.0.1 cbzjukldosooj.com
+127.0.0.1 fgbmbyqmdgr.com
