@@ -1,12 +1,9 @@
-# hpHosts - Ad and Tracking servers only
-#
-# The following are hosts in the hpHosts database with the ATS classification ONLY.
-# This file will NOT protect you against malicious domains
-#
+# piHole
+# Servidores de ads y porno en latinoamerica y España
 127.0.0.1 localhost #IPv4 localhost
 ::1 localhost #IPv6 localhost
 #
-# AD SERVERS START HERE
+# SERV INICIAN AQUI
 #
 127.0.0.1 mediaserver.emol.cl
 127.0.0.1 www.publicidad.emol.com
