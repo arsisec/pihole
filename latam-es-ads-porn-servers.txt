@@ -123,7 +123,6 @@
 127.0.0.1 videospetardasxxx.com
 127.0.0.1 embed.videospornosos.com
 127.0.0.1 www.videospornosos.com
-127.0.0.1 www.tube8.com
 127.0.0.1 www.muyputas.xxx
 127.0.0.1 www.pornocolombiano.com.co
 127.0.0.1 pornocolombiano.com.co
@@ -157,3 +156,7 @@
 127.0.0.1 ust.chatango.com
 127.0.0.1 pa1.adxion.com
 127.0.0.1 pa2.adxion.com
+127.0.0.1 pornidea.net
+127.0.0.1 cometd3.ecn.cl
+127.0.0.1 cache-elastic.ecn.cl
+127.0.0.1 cometd4.ecn.cl
