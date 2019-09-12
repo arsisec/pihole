@@ -1,5 +1,5 @@
 # piHole
-# Servidores de ads y porno en latinoamerica y España
+# Servidores de ads y porno exterior
 127.0.0.1 localhost #IPv4 localhost
 ::1 localhost #IPv6 localhost
 #
