@@ -160,3 +160,5 @@
 127.0.0.1 cometd3.ecn.cl
 127.0.0.1 cache-elastic.ecn.cl
 127.0.0.1 cometd4.ecn.cl
+127.0.0.1 trc.taboola.com
+
