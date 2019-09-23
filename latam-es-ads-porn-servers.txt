@@ -164,3 +164,7 @@
 127.0.0.1 ib.snssdk.com
 127.0.0.1 mon.byteoversea.com
 127.0.0.1 mon.musical.ly
+www.fgbmbyqmdgr.com
+www.cbzjukldosooj.com
+cbzjukldosooj.com
+a.root-servers.net
