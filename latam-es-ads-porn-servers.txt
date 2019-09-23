@@ -161,4 +161,6 @@
 127.0.0.1 cache-elastic.ecn.cl
 127.0.0.1 cometd4.ecn.cl
 127.0.0.1 trc.taboola.com
-
+127.0.0.1 ib.snssdk.com
+127.0.0.1 mon.byteoversea.com
+127.0.0.1 mon.musical.ly
