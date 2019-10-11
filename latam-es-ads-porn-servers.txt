@@ -6,6 +6,7 @@
 # SERV INICIAN AQUI
 #
 127.0.0.1 mediaserver.emol.cl
+127.0.0.1 cometd1.ecn.cl
 127.0.0.1 www.publicidad.emol.com
 127.0.0.1 www.amarillas.com
 127.0.0.1 www.mapas.emol.com
