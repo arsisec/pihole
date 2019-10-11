@@ -197,3 +197,6 @@
 127.0.0.1 www.fgbmbyqmdgr.com
 127.0.0.1 cbzjukldosooj.com
 127.0.0.1 fgbmbyqmdgr.com
+127.0.0.1 s7.addthis.com
+127.0.0.1 www.zlfgedpuxrbpgm.com
+
