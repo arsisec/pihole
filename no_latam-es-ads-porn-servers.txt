@@ -201,4 +201,5 @@
 127.0.0.1 www.zlfgedpuxrbpgm.com
 127.0.0.1 www.wocfrherjxm.com
 127.0.0.1 bl0uxepb4o.com
+127.0.0.1 mail-ads.google.com
 
