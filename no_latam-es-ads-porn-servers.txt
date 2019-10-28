@@ -202,4 +202,13 @@
 127.0.0.1 www.wocfrherjxm.com
 127.0.0.1 bl0uxepb4o.com
 127.0.0.1 mail-ads.google.com
-
+127.0.0.1 bigcoin.io
+127.0.0.1 bzspzpdrqjopj.com
+127.0.0.1 c.adsco.re
+127.0.0.1 qvrpqwrp.com
+127.0.0.1 s5.addthis.com
+127.0.0.1 s6.addthis.com
+127.0.0.1 s7.addthis.com
+127.0.0.1 www.bzspzpdrqjopj.com
+127.0.0.1 www.cyjybkrmzstpid.com
+127.0.0.1 www.qvrpqwrp.com
